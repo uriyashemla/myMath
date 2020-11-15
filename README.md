@@ -1,1 +1,1 @@
-# myMath
+we solve here ex1
